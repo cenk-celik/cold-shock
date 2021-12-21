@@ -2,10 +2,10 @@
 
 This protocol describes the pipelines to analyse _C. elegans_ data.
 
-1. [Alignment](https://github.com/cenk-celik/cold-shock/alignment.r)
+1. [Alignment](https://github.com/cenk-celik/cold-shock/blob/main/alignment.r)
 
-2. [Data exploration](https://github.com/cenk-celik/cold-shock/data_exploration.r)
+2. [Data exploration](https://github.com/cenk-celik/cold-shock/blob/main/data_exploration.r)
 
-3. [Comparing two groups](https://github.com/cenk-celik/cold-shock/treatment1_vs_control.r)
+3. [Comparing two groups](https://github.com/cenk-celik/cold-shock/blob/main/treatment1_vs_control.r)
 
-4. [GO Terms](https://github.com/cenk-celik/cold-shock/GO_terms.r)
+4. [GO Terms](https://github.com/cenk-celik/cold-shock/blob/main/GO_terms.r)
